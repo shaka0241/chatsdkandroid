@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855605770786",
+    "firebase_url": "https://blankapp-d95dc.firebaseio.com",
+    "project_id": "blankapp-d95dc",
+    "storage_bucket": "blankapp-d95dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855605770786:android:1b0cb8f1e4dac24d",
+        "android_client_info": {
+          "package_name": "com.example.blankapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855605770786-kjvbihaqrg291ni4rb1259rrleocaom3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blankapp1",
+            "certificate_hash": "bd2bab6ebfade22bf2c3ea48b9dfa87965eb2d90"
+          }
+        },
+        {
+          "client_id": "855605770786-lihk5md1vd71cslvib2n0i88im0igdpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxm_K1oZ_g8Ob6kfuO0lT0qYagQT_Fi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855605770786-lihk5md1vd71cslvib2n0i88im0igdpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
